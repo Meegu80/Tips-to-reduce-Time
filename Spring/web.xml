@@ -1,7 +1,5 @@
 스프링 webapp 폴더안에 web.xml이 없을때, 만들고 싶을때
 
-발췌 https://gocoder.tistory.com/1256
-
 프로젝트를 클릭하고 마우스 오른쪽 버튼을 누르고
 Java EE Tools -> Generate Deployment Descriptor sub 를 클릭 합니다.
 
