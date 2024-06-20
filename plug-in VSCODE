@@ -1,0 +1,25 @@
+VSCODE관련 추천 플러그인
+
+Auto Rename Tag
+open in browser 
+Auto Close Tag
+Live Preview
+Live Server - 단축키 Alt + L,O(코드짠거 실행)
+Bracket Pair Colorizer DLW
+indent-rainbow
+Prettier - Code formatter
+ESLint 
+Highlight Matching Tag
+Material Icon Theme
+code runner
+beauty
+Path Intellisense
+Material Icon Theme
+Better Comments
+html tag wrapper
+Code Spell Checker
+power mode - 분수모드 추천
+tabnine - 완전 강추(다른거 안해도 이건해야됨)
+
+VSCODE관련뿐만 아니라 개발도구IDE는 왠만해선 "auto save"해주세요
+안해두면, 코드 실행할 때 범위 잡아서 실행해야하거나, 실행이 안되거나, 이전실행화면 뜹니다.
